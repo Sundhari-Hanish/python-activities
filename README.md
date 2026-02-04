@@ -5,4 +5,10 @@ This repository contains practice programs and hands-on activities completed whi
 - Introduction to Python
 - Checking Python version
 - Using print() and exit()
+## Activity 2
+- Python comments
+- Data types and type() function
+- Variables and reassignment
+- String indexing and slicing
+
 
