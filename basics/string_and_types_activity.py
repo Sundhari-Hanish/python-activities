@@ -58,3 +58,4 @@ print("Last 4 characters:", s1[-4:])
 
 # Display first 4 characters
 print("First 4 characters:", s1[:4])
+
