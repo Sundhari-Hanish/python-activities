@@ -59,3 +59,107 @@ print("Last 4 characters:", s1[-4:])
 # Display first 4 characters
 print("First 4 characters:", s1[:4])
 
+# =====================================================
+# Activities from Course PDF (Exact Logic)
+# =====================================================
+
+# -------------------------------
+# p2.py : Sum of numbers in list
+# -------------------------------
+numbers = [16, 50, 300, 5, 40, 110]
+total = 0
+
+for v in numbers:
+    total = total + v
+
+print("Sum of numbers:{}".format(total))
+
+
+# -------------------------------
+# p3.py : Membership operator
+# -------------------------------
+hosts = ['host01', 'host02', 'host03', 'host04', 'host05']
+
+if ("host03" in hosts):
+    print("host03 is exists")
+else:
+    print("Sorry host03 is not exists")
+
+
+# -------------------------------
+# p5.py : List operations
+# -------------------------------
+osnames = ["unix", "linux", "aix", "winx", "SunOS"]
+
+print(osnames[0])
+print(osnames[1])
+
+osnames[1] = "ORACLELINUX"
+print(osnames[1])
+
+print(osnames)
+
+
+# -------------------------------
+# p6.py : Tuple operations
+# -------------------------------
+servers = (
+    "host01.example.com",
+    "host02.example.com",
+    "host03.example.com",
+    "host04.example.com",
+    "host05.example.com"
+)
+
+print(servers[0])
+print(servers[1])
+print(servers)
+
+
+# -------------------------------
+# p9.py : String split
+# -------------------------------
+s1 = "root:bin:x:bash,userA:usr:bin:ksh,userB:usr:bin:sh"
+print(s1.split(","))
+
+
+# -------------------------------
+# p10.py : List slicing & tuple
+# -------------------------------
+L1 = ["Line1\n","Line2\n","Line3\n","Line4\n","Line5\n","Line6\n","Line7\n","Line8\n"]
+
+print(L1[:5])
+
+L1.insert(2, "LineXYZ\n")
+
+print(L1[-5:])
+
+T = tuple(L1)
+print("T belongs to:{}".format(type(T)))
+print("L1 belongs to:{}".format(type(L1)))
+
+
+# -------------------------------
+# Output-based questions
+# -------------------------------
+
+# list = ['a','b','c','d','e']
+# list[10:] -> [](empty array will be returned)
+
+# for var in ["mon","tue","wed","thu","fri"]:
+#     if(var == "wed"):
+#         continue
+#     else:
+#         print(var)
+
+# Output:
+# mon
+# tue
+# thu
+# fri
+
+# ("Test2.log" not in Logfiles) -> NOT-FOUND
+
+# weekdays.count('mon') -> 3
+
+
