@@ -27,8 +27,8 @@ This repository contains practice programs and hands-on activities completed whi
 ## Python_List_Tuple_Dictionary_and_Multidimensional_datastructure
 - List operations (indexing and slicing)
 - Handling index out of range error
-- Formatting list value
-- Reading user input and storing values in a list
+- Formatting list valu
+- Reading user input and storing values in a lis
 - Using `append()` with `while` loop
 - Iterating list elements using `for` loop
 - Tuple operations and iteration
@@ -36,6 +36,7 @@ This repository contains practice programs and hands-on activities completed whi
 - Nested dictionary structures
 - Multidimensional data structures
 - Accessing and modifying values in nested structures
+  
   
 
 
