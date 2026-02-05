@@ -36,6 +36,19 @@ This repository contains practice programs and hands-on activities completed whi
 - Nested dictionary structures
 - Multidimensional data structures
 - Accessing and modifying values in nested structures
+## os, os.path and sys modules
+- Working with environment variables using `os`
+- Fetching login name and home directory
+- Displaying kernel name and version
+- Directory navigation and file listing
+- Writing directory contents to a file
+- Validating command-line arguments
+- File existence and type checking
+- Fetching file and directory details using `os.stat()`
+- Creating and managing directories
+- Executing shell scripts using Python
+- Using `sys.path` and `sys.modules`
+
   
   
 
