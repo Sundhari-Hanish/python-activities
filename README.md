@@ -10,5 +10,11 @@ This repository contains practice programs and hands-on activities completed whi
 - Data types and type() function
 - Variables and reassignment
 - String indexing and slicing
+- String length using `len()`
+- String split operation
+- Membership operator (`in`)
+- List operations and slicing
+- Tuple operations and immutability
+- Output-based questions
 
 
