@@ -1,11 +1,11 @@
 # Python-activities
 Practice programs and activities while learning Python.
 This repository contains practice programs and hands-on activities completed while learning Python fundamentals.
-## Activity 1
+## python_intro
 - Introduction to Python
 - Checking Python version
 - Using print() and exit()
-## Activity 2
+## string_and_types_activity
 - Python comments
 - Data types and type() function
 - Variables and reassignment
@@ -16,7 +16,7 @@ This repository contains practice programs and hands-on activities completed whi
 - List operations and slicing
 - Tuple operations and immutability
 - Output-based questions
-## Activity 3
+## conditional_and_loop_activity
 - Conditional statements using `if` and `else`
 - Checking numeric conditions (greater than, range check)
 - Using membership operator (`in`) with strings
@@ -24,7 +24,7 @@ This repository contains practice programs and hands-on activities completed whi
 - Nested conditional statements for multi-level validation
 - Looping statements using `while`
 - Understanding `while-else` behavior
-## Activity 4
+## Python_List_Tuple_Dictionary_and_Multidimensional_datastructure
 - List operations (indexing and slicing)
 - Handling index out of range error
 - Formatting list value
