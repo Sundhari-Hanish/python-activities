@@ -16,5 +16,15 @@ This repository contains practice programs and hands-on activities completed whi
 - List operations and slicing
 - Tuple operations and immutability
 - Output-based questions
+### Activity 3
+- Conditional statements using `if` and `else`
+- Checking numeric conditions (greater than, range check)
+- Using membership operator (`in`) with strings
+- Assigning values based on conditions
+- Nested conditional statements for multi-level validation
+- Looping statements using `while`
+- Understanding `while-else` behavior
+
+
 
 
