@@ -48,6 +48,10 @@ This repository contains practice programs and hands-on activities completed whi
 - Creating and managing directories
 - Executing shell scripts using Python
 - Using `sys.path` and `sys.modules`
+## Python – OOPs (Object-Oriented Programming)
+- Creating and using classes and objects  
+- Working with constructors, attributes, and methods  
+- Creating and using multiple objects
 
   
   
