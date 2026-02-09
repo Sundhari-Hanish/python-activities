@@ -67,6 +67,13 @@ This repository contains practice programs and hands-on activities completed whi
 - Create anonymous functions with lambda
 - Perform arithmetic and string operations
 - Use multiple arguments and return values
+## Python – map(), filter(), and reduce()
+- Using map() to modify elements in a list
+- Applying lambda functions with map()
+- Filtering data using filter() with conditions
+- Selecting values within a specific range
+- Using reduce() to combine list values
+- Practicing functional programming concepts in Python
 
   
   
