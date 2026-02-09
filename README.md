@@ -56,6 +56,10 @@ This repository contains practice programs and hands-on activities completed whi
 - Demonstrates simple and nested function calls
 - Shows required, default, and global variables in functions
 - Explains function execution flow with arguments and delays
+## Python – Exception Handling
+- Handling runtime errors using `try` and `except`
+- Validating files, arguments, and connections
+- Displaying meaningful error messages
 
 
   
