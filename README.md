@@ -60,7 +60,13 @@ This repository contains practice programs and hands-on activities completed whi
 - Handling runtime errors using `try` and `except`
 - Validating files, arguments, and connections
 - Displaying meaningful error messages
-
+## Exception Handling and Lambda
+- Handle runtime errors using try/except/else/finally
+- Raise custom exceptions
+- Display meaningful error messages
+- Create anonymous functions with lambda
+- Perform arithmetic and string operations
+- Use multiple arguments and return values
 
   
   
