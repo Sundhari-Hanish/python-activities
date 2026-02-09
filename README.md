@@ -52,6 +52,11 @@ This repository contains practice programs and hands-on activities completed whi
 - Creating and using classes and objects  
 - Working with constructors, attributes, and methods  
 - Creating and using multiple objects
+## Python – Functions
+- Demonstrates simple and nested function calls
+- Shows required, default, and global variables in functions
+- Explains function execution flow with arguments and delays
+
 
   
   
